@@ -1,0 +1,253 @@
+       Administrative  Administrative_Duration  Informational  \
+count          7926.0                   7926.0         7926.0   
+mean              1.6                     45.7            0.2   
+std               2.2                     84.0            0.6   
+min               0.0                      0.0            0.0   
+25%               0.0                      0.0            0.0   
+50%               0.0                      0.0            0.0   
+75%               3.0                     61.4            0.0   
+max              14.0                    844.0            5.0   
+
+       Informational_Duration  ProductRelated  ProductRelated_Duration  \
+count                  7926.0          7926.0                   7926.0   
+mean                      6.3            21.6                    778.7   
+std                      28.8            19.9                    845.1   
+min                       0.0             0.0                      0.0   
+25%                       0.0             7.0                    189.0   
+50%                       0.0            15.0                    483.0   
+75%                       0.0            29.0                   1070.5   
+max                     416.0           151.0                   6505.3   
+
+       BounceRates  ExitRates  PageValues  SpecialDay  Month_Aug  Month_Dec  \
+count       7926.0     7926.0      7926.0      7926.0     7926.0     7926.0   
+mean           0.0        0.0         1.3         0.1        0.0        0.1   
+std            0.0        0.0         6.3         0.2        0.2        0.4   
+min            0.0        0.0         0.0         0.0        0.0        0.0   
+25%            0.0        0.0         0.0         0.0        0.0        0.0   
+50%            0.0        0.0         0.0         0.0        0.0        0.0   
+75%            0.0        0.0         0.0         0.0        0.0        0.0   
+max            0.1        0.1       120.6         1.0        1.0        1.0   
+
+       Month_Feb  Month_Jul  Month_June  Month_Mar  Month_May  Month_Nov  \
+count     7926.0     7926.0      7926.0     7926.0     7926.0     7926.0   
+mean         0.0        0.0         0.0        0.2        0.3        0.2   
+std          0.1        0.2         0.1        0.4        0.5        0.4   
+min          0.0        0.0         0.0        0.0        0.0        0.0   
+25%          0.0        0.0         0.0        0.0        0.0        0.0   
+50%          0.0        0.0         0.0        0.0        0.0        0.0   
+75%          0.0        0.0         0.0        0.0        1.0        0.0   
+max          1.0        1.0         1.0        1.0        1.0        1.0   
+
+       Month_Oct  Month_Sep  OperatingSystems_1  OperatingSystems_2  \
+count     7926.0     7926.0              7926.0              7926.0   
+mean         0.0        0.0                 0.2                 0.5   
+std          0.2        0.2                 0.4                 0.5   
+min          0.0        0.0                 0.0                 0.0   
+25%          0.0        0.0                 0.0                 0.0   
+50%          0.0        0.0                 0.0                 1.0   
+75%          0.0        0.0                 0.0                 1.0   
+max          1.0        1.0                 1.0                 1.0   
+
+       OperatingSystems_3  OperatingSystems_4  OperatingSystems_5  \
+count              7926.0              7926.0              7926.0   
+mean                  0.2                 0.0                 0.0   
+std                   0.4                 0.2                 0.0   
+min                   0.0                 0.0                 0.0   
+25%                   0.0                 0.0                 0.0   
+50%                   0.0                 0.0                 0.0   
+75%                   0.0                 0.0                 0.0   
+max                   1.0                 1.0                 1.0   
+
+       OperatingSystems_6  OperatingSystems_7  OperatingSystems_8  Browser_1  \
+count              7926.0              7926.0              7926.0     7926.0   
+mean                  0.0                 0.0                 0.0        0.2   
+std                   0.0                 0.0                 0.1        0.4   
+min                   0.0                 0.0                 0.0        0.0   
+25%                   0.0                 0.0                 0.0        0.0   
+50%                   0.0                 0.0                 0.0        0.0   
+75%                   0.0                 0.0                 0.0        0.0   
+max                   1.0                 1.0                 1.0        1.0   
+
+       Browser_2  Browser_3  Browser_4  Browser_5  Browser_6  Browser_7  \
+count     7926.0     7926.0     7926.0     7926.0     7926.0     7926.0   
+mean         0.6        0.0        0.1        0.0        0.0        0.0   
+std          0.5        0.1        0.2        0.2        0.1        0.1   
+min          0.0        0.0        0.0        0.0        0.0        0.0   
+25%          0.0        0.0        0.0        0.0        0.0        0.0   
+50%          1.0        0.0        0.0        0.0        0.0        0.0   
+75%          1.0        0.0        0.0        0.0        0.0        0.0   
+max          1.0        1.0        1.0        1.0        1.0        1.0   
+
+       Browser_8  Browser_9  Browser_10  Browser_11  Browser_12  Browser_13  \
+count     7926.0     7926.0      7926.0      7926.0      7926.0      7926.0   
+mean         0.0        0.0         0.0         0.0         0.0         0.0   
+std          0.1        0.0         0.1         0.0         0.0         0.1   
+min          0.0        0.0         0.0         0.0         0.0         0.0   
+25%          0.0        0.0         0.0         0.0         0.0         0.0   
+50%          0.0        0.0         0.0         0.0         0.0         0.0   
+75%          0.0        0.0         0.0         0.0         0.0         0.0   
+max          1.0        1.0         1.0         1.0         1.0         1.0   
+
+       Region_1  Region_2  Region_3  Region_4  Region_5  Region_6  Region_7  \
+count    7926.0    7926.0    7926.0    7926.0    7926.0    7926.0    7926.0   
+mean        0.4       0.1       0.2       0.1       0.0       0.1       0.1   
+std         0.5       0.3       0.4       0.3       0.2       0.3       0.2   
+min         0.0       0.0       0.0       0.0       0.0       0.0       0.0   
+25%         0.0       0.0       0.0       0.0       0.0       0.0       0.0   
+50%         0.0       0.0       0.0       0.0       0.0       0.0       0.0   
+75%         1.0       0.0       0.0       0.0       0.0       0.0       0.0   
+max         1.0       1.0       1.0       1.0       1.0       1.0       1.0   
+
+       Region_8  Region_9  TrafficType_1  TrafficType_2  TrafficType_3  \
+count    7926.0    7926.0         7926.0         7926.0         7926.0   
+mean        0.0       0.0            0.2            0.3            0.2   
+std         0.2       0.2            0.4            0.5            0.4   
+min         0.0       0.0            0.0            0.0            0.0   
+25%         0.0       0.0            0.0            0.0            0.0   
+50%         0.0       0.0            0.0            0.0            0.0   
+75%         0.0       0.0            0.0            1.0            0.0   
+max         1.0       1.0            1.0            1.0            1.0   
+
+       TrafficType_4  TrafficType_5  TrafficType_6  TrafficType_7  \
+count         7926.0         7926.0         7926.0         7926.0   
+mean             0.1            0.0            0.0            0.0   
+std              0.3            0.1            0.2            0.1   
+min              0.0            0.0            0.0            0.0   
+25%              0.0            0.0            0.0            0.0   
+50%              0.0            0.0            0.0            0.0   
+75%              0.0            0.0            0.0            0.0   
+max              1.0            1.0            1.0            1.0   
+
+       TrafficType_8  TrafficType_9  TrafficType_10  TrafficType_11  \
+count         7926.0         7926.0          7926.0          7926.0   
+mean             0.0            0.0             0.0             0.0   
+std              0.2            0.1             0.2             0.1   
+min              0.0            0.0             0.0             0.0   
+25%              0.0            0.0             0.0             0.0   
+50%              0.0            0.0             0.0             0.0   
+75%              0.0            0.0             0.0             0.0   
+max              1.0            1.0             1.0             1.0   
+
+       TrafficType_12  TrafficType_13  TrafficType_14  TrafficType_15  \
+count          7926.0          7926.0          7926.0          7926.0   
+mean              0.0             0.1             0.0             0.0   
+std               0.0             0.2             0.0             0.1   
+min               0.0             0.0             0.0             0.0   
+25%               0.0             0.0             0.0             0.0   
+50%               0.0             0.0             0.0             0.0   
+75%               0.0             0.0             0.0             0.0   
+max               1.0             1.0             1.0             1.0   
+
+       TrafficType_16  TrafficType_17  TrafficType_18  TrafficType_19  \
+count          7926.0          7926.0          7926.0          7926.0   
+mean              0.0             0.0             0.0             0.0   
+std               0.0             0.0             0.0             0.0   
+min               0.0             0.0             0.0             0.0   
+25%               0.0             0.0             0.0             0.0   
+50%               0.0             0.0             0.0             0.0   
+75%               0.0             0.0             0.0             0.0   
+max               1.0             1.0             1.0             1.0   
+
+       TrafficType_20  VisitorType_New_Visitor  VisitorType_Other  \
+count          7926.0                   7926.0             7926.0   
+mean              0.0                      0.1                0.0   
+std               0.1                      0.4                0.1   
+min               0.0                      0.0                0.0   
+25%               0.0                      0.0                0.0   
+50%               0.0                      0.0                0.0   
+75%               0.0                      0.0                0.0   
+max               1.0                      1.0                1.0   
+
+       VisitorType_Returning_Visitor  Weekend_False  Weekend_True  \
+count                         7926.0         7926.0        7926.0   
+mean                             0.8            0.8           0.2   
+std                              0.4            0.4           0.4   
+min                              0.0            0.0           0.0   
+25%                              1.0            1.0           0.0   
+50%                              1.0            1.0           0.0   
+75%                              1.0            1.0           0.0   
+max                              1.0            1.0           1.0   
+
+       KmeansClusters  
+count          7926.0  
+mean              0.0  
+std               0.0  
+min               0.0  
+25%               0.0  
+50%               0.0  
+75%               0.0  
+max               0.0  Administrative mean: 1.55 std: 2.22
+Administrative_Duration mean: 45.74 std: 84.0
+Informational mean: 0.18 std: 0.56
+Informational_Duration mean: 6.3 std: 28.84
+ProductRelated mean: 21.62 std: 19.89
+ProductRelated_Duration mean: 778.74 std: 845.09
+BounceRates mean: 0.01 std: 0.02
+ExitRates mean: 0.03 std: 0.03
+PageValues mean: 1.27 std: 6.34
+SpecialDay mean: 0.07 std: 0.21
+Month_Aug count: 268 percent: 3.38
+Month_Dec count: 1174 percent: 14.81
+Month_Feb count: 136 percent: 1.72
+Month_Jul count: 277 percent: 3.49
+Month_June count: 178 percent: 2.25
+Month_Mar count: 1387 percent: 17.5
+Month_May count: 2264 percent: 28.56
+Month_Nov count: 1622 percent: 20.46
+Month_Oct count: 334 percent: 4.21
+Month_Sep count: 286 percent: 3.61
+OperatingSystems_1 count: 1672 percent: 21.1
+OperatingSystems_2 count: 4219 percent: 53.23
+OperatingSystems_3 count: 1647 percent: 20.78
+OperatingSystems_4 count: 319 percent: 4.02
+OperatingSystems_5 count: 5 percent: 0.06
+OperatingSystems_6 count: 12 percent: 0.15
+OperatingSystems_7 count: 5 percent: 0.06
+OperatingSystems_8 count: 47 percent: 0.59
+Browser_1 count: 1595 percent: 20.12
+Browser_2 count: 5066 percent: 63.92
+Browser_3 count: 75 percent: 0.95
+Browser_4 count: 482 percent: 6.08
+Browser_5 count: 302 percent: 3.81
+Browser_6 count: 127 percent: 1.6
+Browser_7 count: 35 percent: 0.44
+Browser_8 count: 94 percent: 1.19
+Browser_9 count: 1 percent: 0.01
+Browser_10 count: 105 percent: 1.32
+Browser_11 count: 5 percent: 0.06
+Browser_12 count: 6 percent: 0.08
+Browser_13 count: 33 percent: 0.42
+Region_1 count: 3037 percent: 38.32
+Region_2 count: 723 percent: 9.12
+Region_3 count: 1538 percent: 19.4
+Region_4 count: 765 percent: 9.65
+Region_5 count: 194 percent: 2.45
+Region_6 count: 536 percent: 6.76
+Region_7 count: 506 percent: 6.38
+Region_8 count: 302 percent: 3.81
+Region_9 count: 325 percent: 4.1
+TrafficType_1 count: 1592 percent: 20.09
+TrafficType_2 count: 2372 percent: 29.93
+TrafficType_3 count: 1412 percent: 17.81
+TrafficType_4 count: 733 percent: 9.25
+TrafficType_5 count: 176 percent: 2.22
+TrafficType_6 count: 298 percent: 3.76
+TrafficType_7 count: 25 percent: 0.32
+TrafficType_8 count: 212 percent: 2.67
+TrafficType_9 count: 32 percent: 0.4
+TrafficType_10 count: 288 percent: 3.63
+TrafficType_11 count: 168 percent: 2.12
+TrafficType_12 count: 1 percent: 0.01
+TrafficType_13 count: 445 percent: 5.61
+TrafficType_14 count: 10 percent: 0.13
+TrafficType_15 count: 24 percent: 0.3
+TrafficType_16 count: 2 percent: 0.03
+TrafficType_17 count: 1 percent: 0.01
+TrafficType_18 count: 8 percent: 0.1
+TrafficType_19 count: 12 percent: 0.15
+TrafficType_20 count: 115 percent: 1.45
+VisitorType_New_Visitor count: 1160 percent: 14.64
+VisitorType_Other count: 51 percent: 0.64
+VisitorType_Returning_Visitor count: 6715 percent: 84.72
+Weekend_False count: 6108 percent: 77.06
+Weekend_True count: 1818 percent: 22.94

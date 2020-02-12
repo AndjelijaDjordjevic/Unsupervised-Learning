@@ -1,0 +1,27 @@
+                             name              info cluster 0  \
+0                  Administrative        mean: 1.55 std: 2.22   
+1         Administrative_Duration       mean: 45.74 std: 84.0   
+2                   Informational        mean: 0.18 std: 0.56   
+3          Informational_Duration        mean: 6.3 std: 28.84   
+4                  ProductRelated      mean: 21.62 std: 19.89   
+..                            ...                         ...   
+70        VisitorType_New_Visitor  count: 1160 percent: 14.64   
+71              VisitorType_Other     count: 51 percent: 0.64   
+72  VisitorType_Returning_Visitor  count: 6715 percent: 84.72   
+73                  Weekend_False  count: 6108 percent: 77.06   
+74                   Weekend_True  count: 1818 percent: 22.94   
+
+                info cluster 1              info cluster 2  
+0         mean: 0.05 std: 0.28        mean: 6.79 std: 4.42  
+1        mean: 1.21 std: 20.34     mean: 275.97 std: 320.5  
+2         mean: 0.02 std: 0.17        mean: 2.19 std: 2.09  
+3        mean: 0.63 std: 15.01    mean: 166.67 std: 262.02  
+4         mean: 3.25 std: 4.78      mean: 84.44 std: 66.42  
+..                         ...                         ...  
+70     count: 30 percent: 2.79     count: 81 percent: 5.81  
+71     count: 16 percent: 1.49      count: 2 percent: 0.14  
+72  count: 1030 percent: 95.72  count: 1312 percent: 94.05  
+73   count: 894 percent: 83.09  count: 1031 percent: 73.91  
+74   count: 182 percent: 16.91   count: 364 percent: 26.09  
+
+[75 rows x 4 columns]
